@@ -8,6 +8,10 @@
 ![image alt](https://github.com/Shraddhark99/VOLLTREFFER-SPORTS-SALES-ANALYSIS-2024---Tableau/blob/main/sales%20Dashboard%20Filter.png?raw=true)
 
 
+
+![image alt](https://github.com/Shraddhark99/VOLLTREFFER-SPORTS-SALES-ANALYSIS-2024---Tableau/blob/main/Customer%20Dashboardd.png?raw=true)
+
+
 Volltreffer Sales Dashboard 2024 Sales Dashboard (Tableau) 2024 
 
 
